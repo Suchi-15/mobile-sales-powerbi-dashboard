@@ -18,6 +18,13 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 (Screenshot will appear here after uploading)
+## Dashboard Preview
+
+![Dashboard](images/dashboard1.png)
+
+![Dashboard](images/dashboard2.png)
+
+![Dashboard](images/dashboard3.png)
 
 
 ## Project Structure
