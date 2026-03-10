@@ -18,6 +18,7 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 (Screenshot will appear here after uploading)
+![Dashboard](images/dashboard_preview.png)
 
 ## Project Structure
 mobile-sales-powerbi-dashboard
